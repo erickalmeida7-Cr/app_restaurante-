@@ -19,4 +19,4 @@ O sistema foi componentizado em quatro arquivos principais, isolando as responsa
 
 ## Links
 * **Link do Github**: [https://github.com/erickalmeida7-Cr/app_restaurante-]
-* **Aplicação em Nuvem**: [https://vgyusb4xk3xek4a2vofesf.streamlit.app]
+* **Aplicação em Nuvem**: https://c5tr5mbvvkvxxoicixtpvr.streamlit.app/
